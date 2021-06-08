@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-08T18:36:03Z" name="Default suite" finished-at="2021-06-08T18:36:26Z" duration-ms="23393">
+    <groups>
+    </groups>
+    <test started-at="2021-06-08T18:36:03Z" name="Default test" finished-at="2021-06-08T18:36:26Z" duration-ms="23393">
+      <class name="tests.TestTopMenu">
+        <test-method is-config="true" signature="createDriver()[pri:0, instance:tests.TestTopMenu@7d8704ef]" started-at="2021-06-08T18:36:03Z" name="createDriver" finished-at="2021-06-08T18:36:04Z" duration-ms="1420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method signature="testMenuShiftPlan()[pri:1, instance:tests.TestTopMenu@7d8704ef]" started-at="2021-06-08T18:36:04Z" name="testMenuShiftPlan" finished-at="2021-06-08T18:36:12Z" duration-ms="7800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMenuShiftPlan -->
+        <test-method signature="testMenuTimeClock()[pri:2, instance:tests.TestTopMenu@7d8704ef]" started-at="2021-06-08T18:36:12Z" name="testMenuTimeClock" finished-at="2021-06-08T18:36:12Z" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMenuTimeClock -->
+        <test-method signature="testMenuLeave()[pri:3, instance:tests.TestTopMenu@7d8704ef]" started-at="2021-06-08T18:36:12Z" name="testMenuLeave" finished-at="2021-06-08T18:36:12Z" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMenuLeave -->
+        <test-method signature="testMenuTraining()[pri:4, instance:tests.TestTopMenu@7d8704ef]" started-at="2021-06-08T18:36:12Z" name="testMenuTraining" finished-at="2021-06-08T18:36:13Z" duration-ms="901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMenuTraining -->
+        <test-method signature="testMenuStaff()[pri:5, instance:tests.TestTopMenu@7d8704ef]" started-at="2021-06-08T18:36:13Z" name="testMenuStaff" finished-at="2021-06-08T18:36:16Z" duration-ms="3234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMenuStaff -->
+        <test-method signature="testMenuAvailability()[pri:6, instance:tests.TestTopMenu@7d8704ef]" started-at="2021-06-08T18:36:16Z" name="testMenuAvailability" finished-at="2021-06-08T18:36:22Z" duration-ms="5605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMenuAvailability -->
+        <test-method signature="testMenuPayroll()[pri:7, instance:tests.TestTopMenu@7d8704ef]" started-at="2021-06-08T18:36:22Z" name="testMenuPayroll" finished-at="2021-06-08T18:36:25Z" duration-ms="3028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMenuPayroll -->
+        <test-method signature="testMenuReports()[pri:8, instance:tests.TestTopMenu@7d8704ef]" started-at="2021-06-08T18:36:25Z" name="testMenuReports" finished-at="2021-06-08T18:36:26Z" duration-ms="1130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMenuReports -->
+      </class> <!-- tests.TestTopMenu -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
